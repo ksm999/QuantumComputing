@@ -6,6 +6,6 @@ Quantum Computing을 잘 모르는 사람도 천천히 따라오면 이해할 �
 
 작성 계획
 1. Grover's Algorithm (진행중)
-2. Quantum Computing Introduction based on Qiskit tutorials
+2. Deutsch-Jozsa Algorithm (진행중)
 3. Shor's Algorithm
-4. Deutsch-Jozsa Algorithm
+4. Quantum Computing Introduction based on Qiskit tutorials

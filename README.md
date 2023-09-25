@@ -9,7 +9,7 @@ Method to represent RGB images in Bloch sphere, Bloch Sphere에 Color image를 �
 또한 현재 고민중인 문제는 3D Bloch Sphere로 표현한 image를 다시 2D로 표현하는 방법, 그리고 Spherical Harmonics로 표현 할 수 있는지의 여부입니다.
 
 작성 계획
-1. Grover's Algorithm (작성 끝)
+1. In Quantum Image Processing, FRQI's rotation matrix induction
 2. Deutsch-Jozsa Algorithm (진행중)
 3. Shor's Algorithm (진행중)
 4. Quantum Computing Introduction based on Qiskit tutorials
